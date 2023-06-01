@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitConveterEx", "ModbusTCPMonitor\BitConveterEx.csproj", "{6E14E0B9-B8CB-482E-AE55-C366281CCBCD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccModbusReader", "AccModbusReader\AccModbusReader.csproj", "{B7870F52-1B56-464F-BB1C-88B795006CEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6E14E0B9-B8CB-482E-AE55-C366281CCBCD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E14E0B9-B8CB-482E-AE55-C366281CCBCD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E14E0B9-B8CB-482E-AE55-C366281CCBCD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E14E0B9-B8CB-482E-AE55-C366281CCBCD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7870F52-1B56-464F-BB1C-88B795006CEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7870F52-1B56-464F-BB1C-88B795006CEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7870F52-1B56-464F-BB1C-88B795006CEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7870F52-1B56-464F-BB1C-88B795006CEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C4DF060-24BE-447E-A4A2-FDCE4353160A}
+	EndGlobalSection
+EndGlobal
